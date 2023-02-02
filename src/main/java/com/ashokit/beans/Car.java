@@ -1,4 +1,4 @@
-package com.ashrokit.beans;
+package com.ashokit.beans;
 
 import lombok.Data;
 
