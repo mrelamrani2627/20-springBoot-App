@@ -12,5 +12,11 @@ public class Application {
 		// changes for HIS-134
 		run.close();
 	}
+	
+	// HIS-200 releated changes
+	public void doProcess() {
+		// logic goes here
+		
+	}
 
 }
